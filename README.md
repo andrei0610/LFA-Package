@@ -21,6 +21,8 @@ _______
 
 It should **automatically** install via [Package Control](https://sublime.wbond.net/installation)
 
-If you want to do it **manually** 
+If you want to install it **manually** 
+
 `cd {user sublime folder}/Packages`
+
 `git clone https://github.com/learnfwd/LFA-Package.git`
