@@ -1,4 +1,4 @@
-LFA-Completions
+LFA-Package
 ===============
 
-LearnForward Author completions for Sublime Text 3
+LearnForward Author completions for Sublime Text 3.
