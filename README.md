@@ -15,3 +15,12 @@ For now we use LFA-level mixins for jade.
 +video
 
 +img
+
+Install
+_______
+
+It should **automatically** install via [Package Control](https://sublime.wbond.net/installation)
+
+If you want to do it **manually** 
+`cd {user sublime folder}/Packages`
+`git clone https://github.com/learnfwd/LFA-Package.git`
