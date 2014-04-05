@@ -1,0 +1,13 @@
+{
+        "scope": "source.jade",
+        "completions":
+        [
+                { "trigger": "+article", "contents": "+article(\"${1:Title}\"${2:,\"${3:Subtitle}\"})" },
+                { "trigger": "+section", "contents": "+section(\"${1:Section Name}\")" },
+                { "trigger": "+img", "contents": "+img(\"img/${1:kitten}.${2:jpg}\")" },
+                { "trigger": "+vimeo", "contents": "+vimeo(\"${1:17439081}\")" },
+                { "trigger": "+youtube", "contents": "+youtube(\"${1:Rzu6zeLSWq8}\")" },
+                { "trigger": "+video", "contents": "video.video(controls)\n  source(src=\"video/${1:j_lung_compressed}.${2:mp4}\", type=\"video/${2:mp4}\")"},
+                "pizza"
+        ]
+}
