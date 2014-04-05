@@ -1,0 +1,21 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "LFA-Package",
+			"previous_names": ["LFA-Package"],
+			"details": "https://https://github.com/learnfwd/LFA-Package",
+			"author": "learnfwd",
+			"homepage": "https://github.com/learnfwd/LFA-Package",
+			"readme": "https://github.com/learnfwd/LFA-Package/blob/master/README.md",
+			"releases": [
+				{
+					"platforms": "*",
+					"sublime_text": ">=2000",
+					"details": "https://github.com/learnfwd/LFA-Package/tags"
+				}
+			],
+			"labels": ["jade", "lfa", "completion", "learnfwd", "textbooks"]
+		}
+	]
+}
