@@ -1,6 +1,8 @@
 LFA-Package
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreiconstantinescu/LFA-Package.svg)](https://greenkeeper.io/)
+
 ### About
 [LearnForward Author](https://github.com/learnfwd/lfa) completions for [Sublime Text 3](http://www.sublimetext.com/3).
 For now we use LFA-level mixins for jade.
